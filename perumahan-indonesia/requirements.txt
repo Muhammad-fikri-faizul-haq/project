@@ -1,0 +1,8 @@
+folium
+matplotlib
+pandas
+seaborn
+selenium
+streamlit
+streamlit_folium
+webdriver_manager
